@@ -1,4 +1,4 @@
-# Data Processing in Python
+# Data processing and scraping in Python
 
 # Задача:
 
